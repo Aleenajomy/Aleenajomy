@@ -11,12 +11,9 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a Full-Stack Developer passionate about building clean, scalable, and user-friendly web applications.
-    I enjoy working across the entire stack — from crafting responsive UIs in React to designing secure REST APIs using Django REST Framework.
-  </p>
-
-  <p>
-    I focus on writing maintainable code, improving backend architecture, and delivering fast, intuitive digital experiences.
+    Entry-level Full-Stack Developer passionate about building responsive user interfaces and secure backend
+    systems using React, Python, and Django. I enjoy developing clean APIs, handling authentication workflows,
+    and delivering reliable applications from UI to database.
   </p>
 
   <p>
@@ -24,7 +21,7 @@
     <a href="mailto:aleenajomy4@gmail.com">
       <img src="https://img.shields.io/badge/📧_aleenajomy4@gmail.com-1e1e2e?style=for-the-badge" />
     </a>
-    <img src="https://img.shields.io/badge/💼_Open_to_Work_(Full--Stack_Roles)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💼_Open_to_Work-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Connect With Me</h3>
@@ -47,21 +44,20 @@
 ---
 
 ## 🛠️ Skills
-
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
 
-<h3>💻 Programming</h3>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,java,c,html,css" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
-
 <h3>📚 Frameworks & Libraries</h3>
+
 <img src="https://skillicons.dev/icons?i=react,django,bootstrap" />
 
 </td>
@@ -69,16 +65,16 @@
 
 <tr>
 <td width="50%" align="center">
-
 <h3>🗄️ Databases</h3>
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
-
 <h3>🧰 Tools & Platforms</h3>
+
 <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
 
 </td>
@@ -88,61 +84,57 @@
 
 ---
 
-## 🚀 Projects
-
-### 🔹 Job Portal — Full-Stack Web Application
-- Built a multi-role platform (Company, Employer, Employee)
-- Designed **15+ REST APIs** using Django REST Framework
-- Implemented **JWT authentication + role-based access**
-- Optimized queries → improved API performance by ~25%
-
-🔗 https://github.com/Aleenajomy/Job-portal
-
----
-
-### 🔹 Stylo — Virtual Wardrobe Web App
-- Developed outfit recommendation platform using React + DRF
-- Integrated **Weather API + AI-based suggestions**
-- Built image upload, preview, and dynamic UI components
-
-🔗 https://github.com/Aleenajomy/Stylo
-
----
-
-### 🔹 GASSETS — Facility Management System
-- Created campus service automation system
-- Digitized canteen, store, and printing workflows
-- Reduced manual processing by **~40%**
-
----
-
 ## 💼 Experience
 
 **Python Django Developer Intern — Zecser Business LLP**  
 📅 Nov 2025 – Jan 2026
 
-- Engineered backend services for a production-grade job portal
-- Developed REST APIs for authentication and workflow management
-- Implemented secure JWT-based authentication
-- Improved performance via serializer & query optimization
-- Assisted frontend integration testing using React
+- Engineered backend services for a production-grade Job Portal supporting multiple user roles  
+- Designed and delivered 15+ REST APIs for authentication and workflows  
+- Implemented JWT authentication with role-based access control  
+- Optimized database queries, reducing API response time by 25%  
+- Built responsive React screens and validated flows using Postman  
+
+🔗 https://github.com/Aleenajomy/Job-portal
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Projects
 
-- Backend system design fundamentals  
-- Writing scalable Django APIs  
-- Improving React performance & architecture  
+**Stylo — Virtual Wardrobe Web App**
+- Developed a full-stack wardrobe management platform  
+- Built React components for uploads, previews, and dynamic suggestions  
+- Integrated Weather API and AI-based recommendations  
+- Designed 10+ REST endpoints with validation  
+
+🔗 https://github.com/Aleenajomy/Stylo
+
+**GASSETS — Facility Management System**
+- Created campus service system with dashboards for students and staff  
+- Automated canteen, store, and printing workflows  
+- Reduced manual handling by ~40%
+
+---
+
+## 🔐 Cybersecurity Experience
+
+**Secure User Authentication System**
+- Implemented bcrypt password hashing and JWT authentication  
+- Added CSRF/XSS protection and secure validation workflows  
+
+**Phishing Awareness Simulation**
+- Built a simulated phishing site to demonstrate credential-harvesting risks  
+- Used for cybersecurity awareness and attack-pattern education  
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aleenajomy&show_icons=true&theme=default&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aleenajomy&theme=default&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Aleenajomy&theme=default&hide_border=true" />
 </div>
+
 
 ## ❤️ Support Me
 <p align="center"> 
