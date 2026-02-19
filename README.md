@@ -140,5 +140,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Aleenajomy&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aleenajomy&show_icons=true&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aleenajomy&theme=default&hide_border=true" />
 </div>
+
+## ❤️ Support Me
+<p align="center"> 
+  <a href="https://www.buymeacoffee.com/midhun_mike">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/> 
+  </a>
+</p>
+
