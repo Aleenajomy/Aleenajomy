@@ -110,6 +110,7 @@
 - Used for cybersecurity awareness and attack-pattern education  
 
 ---
+
 ## 🚀 Featured Projects
 
 ### 💰 MoneySuivi – Personal Finance Platform
