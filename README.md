@@ -97,168 +97,6 @@
 
 🔗 https://github.com/Aleenajomy/Job-portal
 
-
-## 🚀 Featured Projects
-
----
-
-### 💰 MoneySuivi – Personal Finance Management Platform
-
-**Tech Stack:** React • Node.js • Express.js • PostgreSQL • Prisma
-
-A modern full-stack personal finance management platform that helps users track expenses, budgets, loans, assets, and overall financial health.
-
-#### ✨ Key Features
-
-- 💸 Expense & Income Tracking
-- 📊 Interactive Financial Analytics Dashboard
-- 📅 Budget Planning & Category-wise Spending
-- 💳 EMI & Loan Management
-- 🏦 Asset & Liability Tracking
-- 🤝 Borrow & Lend Ledger
-- 🔔 Budget Alerts & Payment Reminders
-- 📱 Progressive Web App (PWA)
-- 🔐 JWT Authentication & Secure APIs
-- 📈 Net Worth Calculator
-- 🔄 Recurring Transactions
-- 🌙 Dark / Light Theme Support
-
-#### 🚀 Highlights
-
-- Built **20+ REST APIs**
-- Secure JWT Authentication & Role-Based Access
-- PostgreSQL Database with Prisma ORM
-- Responsive Mobile-First UI
-- Real-time Financial Analytics
-- Push Notifications & Budget Alerts
-
-🔗 **GitHub:** https://github.com/Aleenajomy/SmartExpenceTracker
-
-🌐 **Live Demo:** https://smartexpencetracker-frontend.onrender.com
-
----
-
-### 📍 Finder – Hyperlocal Worker Discovery Platform
-
-**Tech Stack:** Django • Django REST Framework • React • PostgreSQL
-
-A location-based service platform that helps users discover nearby workers using intelligent pincode-level search.
-
-#### ✨ Key Features
-
-- 📍 Nearby Worker Discovery
-- 🔍 Advanced Search & Filtering
-- 🗺️ Pincode-Based Location Matching
-- 🔐 Secure Authentication
-- ⚡ REST API Integration
-- 📱 Responsive User Interface
-
-#### 🚀 Highlights
-
-- Developed **10+ REST APIs**
-- Optimized PostgreSQL Queries
-- Seamless React + Django Integration
-- Deployed using Render & Vercel
-
-🌐 **Live Demo:** https://finder-swart.vercel.app
-
----
-
-### 📄 ResumeMaker – AI ATS Resume Optimizer
-
-**Tech Stack:** React • TypeScript • Django • PostgreSQL • LaTeX
-
-An AI-powered platform that generates ATS-friendly resumes tailored to specific job descriptions.
-
-#### ✨ Key Features
-
-- 🤖 AI Resume Generation
-- 📑 ATS Keyword Optimization
-- 📄 LaTeX PDF Generation
-- 🔐 JWT Authentication
-- 📊 Resume Match Analysis
-
-#### 🚀 Highlights
-
-- AI-powered ATS Resume Builder
-- 100% ATS-Friendly PDF Output
-- Secure User Authentication
-- Dynamic Resume Customization
-
-🔗 **GitHub:** https://github.com/Aleenajomy/ResumeMaker
-
----
-
-### 💼 Job Portal Web Application
-
-**Tech Stack:** Django • Django REST Framework • React • PostgreSQL
-
-A full-stack recruitment platform connecting employers and job seekers with secure role-based authentication.
-
-#### ✨ Key Features
-
-- 👨‍💼 Employer Dashboard
-- 👨‍🎓 Applicant Dashboard
-- 🛡️ Admin Panel
-- 📄 Job Posting & Applications
-- 🔐 JWT Authentication
-- 📊 Profile Management
-
-#### 🚀 Highlights
-
-- Built **12+ REST APIs**
-- Role-Based Access Control (RBAC)
-- PostgreSQL Database
-- Tested with 30+ Postman API Test Cases
-
-🔗 **GitHub:** https://github.com/Aleenajomy/Job-portal
-
----
-
-### 👗 Stylo – AI Virtual Wardrobe
-
-**Tech Stack:** React • Django • PostgreSQL • Weather API
-
-A smart wardrobe management application that helps users organize outfits and receive AI-powered clothing recommendations.
-
-#### ✨ Key Features
-
-- 👕 Digital Wardrobe
-- 📤 Outfit Uploads
-- 🌤️ Weather-Based Suggestions
-- 🤖 AI Outfit Recommendations
-- 📱 Responsive Interface
-
-#### 🚀 Highlights
-
-- Built **10+ REST APIs**
-- Weather API Integration
-- Dynamic Outfit Recommendations
-
-🔗 **GitHub:** https://github.com/Aleenajomy/Stylo
-
----
-
-### 🏢 GASSETS – Facility Management System
-
-**Tech Stack:** React • Django • PostgreSQL
-
-A campus facility management platform designed to streamline daily services for students and staff.
-
-#### ✨ Key Features
-
-- 🍽️ Canteen Management
-- 🛒 Store Services
-- 🖨️ Printing Requests
-- 👨‍🎓 Student Dashboard
-- 👨‍💼 Staff Dashboard
-
-#### 🚀 Highlights
-
-- Automated Campus Services
-- Reduced Manual Work by ~40%
-- Centralized Management Dashboard
-
 ---
 
 ## 🔐 Cybersecurity Experience
@@ -272,6 +110,96 @@ A campus facility management platform designed to streamline daily services for 
 - Used for cybersecurity awareness and attack-pattern education  
 
 ---
+## 🚀 Featured Projects
+
+### 💰 MoneySuivi – Personal Finance Platform
+
+**React • Node.js • Express.js • PostgreSQL • Prisma**
+
+Full-stack personal finance platform for managing expenses, income, budgets, loans, assets, and net worth.
+
+* 💸 Expense & Income Tracking
+* 📊 Financial Analytics & Budget Management
+* 💳 EMI & Loan Tracking
+* 🏦 Assets, Liabilities & Net Worth
+* 🔐 JWT Authentication & Secure APIs
+* 📱 Responsive PWA
+
+🔗 [GitHub](https://github.com/Aleenajomy/SmartExpenceTracker) • [Live Demo](https://smartexpencetracker-frontend.onrender.com)
+
+---
+
+### 📍 Finder – Hyperlocal Worker Discovery
+
+**Django • Django REST Framework • React • PostgreSQL**
+
+Location-based platform for discovering nearby workers using pincode-based search and filtering.
+
+* 📍 Nearby Worker Discovery
+* 🔍 Search & Filtering
+* 🔐 Authentication
+* ⚡ REST API Integration
+
+🌐 [Live Demo](https://finder-swart.vercel.app)
+
+---
+
+### 📄 ResumeMaker – AI ATS Resume Optimizer
+
+**React • TypeScript • Django • PostgreSQL • LaTeX**
+
+AI-powered resume platform that creates ATS-friendly resumes tailored to job descriptions.
+
+* 🤖 AI Resume Optimization
+* 📑 ATS Keyword Matching
+* 📄 LaTeX PDF Generation
+* 🔐 JWT Authentication
+
+🔗 [GitHub](https://github.com/Aleenajomy/ResumeMaker)
+
+---
+
+### 💼 Job Portal Web Application
+
+**Django • Django REST Framework • React • PostgreSQL**
+
+Full-stack recruitment platform connecting employers and job seekers with role-based access.
+
+* 👨‍💼 Employer & Applicant Dashboards
+* 📄 Job Posting & Applications
+* 🔐 JWT Authentication & RBAC
+* 📊 Profile Management
+
+🔗 [GitHub](https://github.com/Aleenajomy/Job-portal)
+
+---
+
+### 👗 Stylo – AI Virtual Wardrobe
+
+**React • Django • PostgreSQL • Weather API**
+
+Smart wardrobe application providing weather-based and AI-powered outfit recommendations.
+
+* 👕 Digital Wardrobe
+* 🌤️ Weather Integration
+* 🤖 AI Outfit Recommendations
+* 📱 Responsive UI
+
+🔗 [GitHub](https://github.com/Aleenajomy/Stylo)
+
+---
+
+### 🏢 GASSETS – Facility Management System
+
+**React • Django • PostgreSQL**
+
+Campus facility management platform for handling canteen, store, printing, and student services.
+
+* 🍽️ Canteen & Store Management
+* 🖨️ Printing Requests
+* 👨‍🎓 Student & Staff Dashboards
+* ⚡ Automated Campus Services
+
 
 ## 📊 GitHub Stats
 
